@@ -1,21 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project made with tailwind css. Initially I have focused on the functional part of the project. Gradually will increase the design.
 
-## Getting Started
+## Project flow 
 
-To run the development server:
+To run the project on your local machine:
 1. download the project.
-2. In the cmd, type: 
+2. In the project directory, open cmd and type: 
 
 ```bash
 npm i
 ```
-3. then type
+3. To see the project, type:
 
 ```bash
 npm run dev
-
-
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+4. To build the project, type:
+
+```bash
+npm run build
+```
 
 
 

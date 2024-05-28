@@ -21,7 +21,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ```bash
 npm run build
 ```
-
+5. Live site will be look alike: 
+Live [https://mabrur-edtech.netlify.app/](https://mabrur-edtech.netlify.app/)
 
 
 
